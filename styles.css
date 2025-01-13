@@ -85,3 +85,9 @@
         background: #002244;
     }
     
+    img {
+        max-width: auto;
+        max-height: 30vh;
+        border-radius: 30vh;
+        margin-top: -30vh;
+    }
